@@ -1,4 +1,4 @@
-name: Frontend Continuous Integration
+name: Movie Pipeline Frontend Continuous Integration
 
 on:
   workflow_dispatch:

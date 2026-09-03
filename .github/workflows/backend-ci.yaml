@@ -1,4 +1,4 @@
-name: Backend Continuous Integration
+name: Movie Pipeline Backend Continuous Integration
 
 on:
   workflow_dispatch:
