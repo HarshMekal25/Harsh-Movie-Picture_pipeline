@@ -1,4 +1,4 @@
-name: Movie Pipeline Backend Continuous Deployment
+name: Backend Continuous Deployment
 
 on:
   workflow_dispatch:
